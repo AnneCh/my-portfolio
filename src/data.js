@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Well, Here you are!",
+    subtitle: "Portfolio creation process",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "How did this portfolio came to exist?",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/AnneCh/my-portfolio",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Crypto Bot",
+    subtitle: "I'll make it become one.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "On how I am building my own crypto trading bot, my first unsupervized project.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/AnneCh/Project",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "TokenFarm Project",
+    subtitle: "Free Code Camp Token Farm Project",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Building an interface with smart contract to deposit tokens and withdraw them.",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/AnneCh/TokenFarm---Lesson-13",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Storage Contract",
+    subtitle: "Creation of a storage contract project",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "'Fund Me' storage contract. ",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/AnneCh/brownie_fund_me",
   },
 ];
 
@@ -51,10 +51,12 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
+  "Solidity",
+  "Python",
+  "Audition",
+  "Premiere Pro",
+  "Photoshop",
+  "HTML",
+  "CSS",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
 ];
