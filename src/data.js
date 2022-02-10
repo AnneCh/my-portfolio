@@ -33,20 +33,24 @@ export const projects = [
   },
 ];
 
-export const testimonials = [
+export const whatelse = [
   {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    topic:
+      "Well-Being and Efficiency",
+    image: "",
+    more: "Here is what I think of well being, and efficiency.",
   },
   {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    topic:
+      "Systems and why they Matter",
+    image: "",
+    more: "Here is what I think about systems and why I think they matter.",
+  },
+  {
+    topic:
+      "Relationships",
+    image: "",
+    more: "Here is what I think of relationships.",
   },
 ];
 
