@@ -77,3 +77,8 @@ Now I think I reached the stage where I need to watch a few tutorials about Reac
 As I'm digging a bit deeper into React, it shows me how I need to get into JavaScript.
 ----react is owned by Meta----
 Started following the React's website's steps
+https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial
+
+    components are small, isolated pieces used to build a user interface.
+
+May install Material UI, an extension to react.js that will enable more design possibilities
