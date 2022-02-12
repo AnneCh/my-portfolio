@@ -18,7 +18,7 @@ export default function WhatElse() {
                     <p className="leading-relaxed mb-6">{whatelse.topic}</p>
                     <div className="inline-flex items-center">
                       <img
-                        alt="testimonial"
+                        alt=""
                         src={whatelse.image}
                         className="w-12 rounded-full flex-shrink-0 object-cover object-center"
                       />

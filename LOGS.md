@@ -49,3 +49,19 @@ even if it may not be what I want to use on the long term, there's a high chance
 that an employer or client wants their project on React.
 
 React is a specific language to learn that I at least want to master the basics of.
+
+# Specifics
+
+** Integrations to search for **
+Night/Day Toggle
+Pop up for the 2 portfolios options with specific background
+=> static page redirecting to 2 different but interconnected projects?
+
+I don't know yet if I want a scroll or a set of static pages interconnected
+
+--- downloaded images that could fit with the principle of my portfolio
+--- contacted Oceane for potential collaboration for logo
+
+<!-- Things that are present through the tutorial I'm following and that I'm willing to keep:
+        - Navbar
+        - -->
