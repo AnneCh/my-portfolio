@@ -4,7 +4,7 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
-import Skills from "./components/Skills";
+import Tools from "./components/Tools";
 import WhatElse from "./components/WhatElse";
 
 export default function App() {
@@ -13,7 +13,7 @@ export default function App() {
       <Navbar />
       <About />
       <Projects />
-      <Skills />
+      <Tools />
       <WhatElse />
       <Contact />
     </main>

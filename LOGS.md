@@ -27,9 +27,8 @@ About the front-end development of my portfolio:
   2. Selection of projects and languages
   3. Selection of tutorials, mentors, resources
   <!-- 3.1 Short Selection of projects? Portfolio-like -->
-  4. Short, Medium, Long term projects
-  5. Things I want to learn
-  6. Links to GitHub, StackOverflow, StackExchange(needed?), LinkedIn
+  4. Short, Medium, Long term projects + Things I want to learn
+  5. Links to GitHub, StackOverflow, StackExchange(needed?), LinkedIn
 
 ---
 
@@ -65,3 +64,16 @@ I don't know yet if I want a scroll or a set of static pages interconnected
 <!-- Things that are present through the tutorial I'm following and that I'm willing to keep:
         - Navbar
         - -->
+
+In today's session, I've been able to define more precisely what I want my portfolio to be. It won't be an exhibition of projects, but more an insight on how I think, the set of values I could bring to someone's team.
+Added more Tools in the data.js
+Fixed small bug in display of What Else page
+Downloaded some pictures for inspiration
+Tried to integrate one of those pictures into my display
+-> didn't work, but I'll try again next time
+Now I think I reached the stage where I need to watch a few tutorials about React
+-> bare minimum for now, otherwise I will dig into a new full on tutorial and won't move forward with this project.
+
+As I'm digging a bit deeper into React, it shows me how I need to get into JavaScript.
+----react is owned by Meta----
+Started following the React's website's steps

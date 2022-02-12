@@ -54,13 +54,22 @@ export const whatelse = [
   },
 ];
 
-export const skills = [
+export const tools = [
   "Solidity",
   "Python",
-  "Audition",
-  "Premiere Pro",
-  "Photoshop",
+  "JavaScript",
+  "Remix",
+  "NodeJS",
+  "Brownie",
+  "Ganache",
+  "Infura",
+  "Metamask",
+  "Linux CLI",
   "HTML",
   "CSS",
   "React",
+  "Adobe Audition",
+  "Adobe Premiere Pro",
+  "Adobe Photoshop",
+  "Adobe Indesign",
 ];
