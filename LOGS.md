@@ -82,3 +82,16 @@ https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial
     components are small, isolated pieces used to build a user interface.
 
 May install Material UI, an extension to react.js that will enable more design possibilities
+
+13.02.22
+
+Changed About section
+=> still need to figure out how to make it just a pop up so the visitor chooses between two portfolios
+Trying to figure out how to display the project part.
+which... doesn't really matter actually, as I'll have to create a different section anyway.
+-- removed the google map image
+-- modified the what else portion on data.js
+==> I want the navabar to direct to three pages about the inside of the whatelse section
+
+I think I'd better get the pop up page thing out of the way first, as it may require me to install some kind of dependecy that I could use later to do what I want to do now.
+=====>>>> try to identify all things I want done, and if there are correlations/dependencies/libraries and all that could be used for each => regroup actions/software

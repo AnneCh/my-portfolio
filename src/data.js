@@ -38,19 +38,22 @@ export const whatelse = [
     topic:
       "Well-Being and Efficiency",
     image: "",
-    more: "Here is what I think of well being, and efficiency.",
+    more: "On the goal to be specific in an understood big-picture.",
+    link: "",
   },
   {
     topic:
       "Systems and why they Matter",
     image: "",
-    more: "Here is what I think about systems and why I think they matter.",
+    more: "Engineering and coding principles to everyday life.",
+    link: "",
   },
   {
     topic:
-      "Relationships",
-    image: "",
-    more: "Here is what I think of relationships.",
+      "Trials and Errors",
+    image: "src/imgs/connected_brains.png",
+    more: "Reshapping my approach to problems",
+    link: "",
   },
 ];
 

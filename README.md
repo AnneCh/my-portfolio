@@ -1,40 +1,42 @@
-# Getting Started with Create React App
+## PORTFOLIO CREATION
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# _What I want is_
 
-## Available Scripts
+- A website(w.) pleasing to look at
+- A w. that is simple, user-friendly yet packed with relevant information
+  for anyone wondering if to hire me
+- A w. that can offer an insight on how I think, rather than how much work I've done
+- A proper balance of work experience and the values that I follow in life
 
-In the project directory, you can run:
+# Structure
 
-### `yarn start`
+- HomePage
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  1. Invite the visitor to relax and choose between two portfolios: The Developper, or Multimedia
+  2. Ease of access to social media links and contact (LinkedIn, QuickEmail, GitHub, Twitter)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- A. The Developper
 
-### `yarn test`
+  1. Short on why I chose this area of work
+  2. Selection of projects and languages
+  3. Selection of tutorials, mentors, resources
+  <!-- 3.1 Short Selection of projects? Portfolio-like -->
+  4. Short, Medium, Long term projects + Things I want to learn
+  5. Links to GitHub, StackOverflow, LinkedIn
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `yarn build`
+- B. Multimedia
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  1. What have I done since my degree (short bckgd on what my studies were, include links for more information)
+  2. Creation of Mindbridge Media => how it unfolded and where it is now
+     Page includes internal links to a page that basically sums up how the covid situation made me
+     select different options for my life.
+     Page includes links to MindBridge Media YT and FB pages.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# _How_
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+I have chosen the support of React Js to build my portfolio,
+because it's a popular framework used by defi apps developers,
+even if it may not be what I want to use on the long term, there's a high chance
+that someone I'd be working with would use it. Learning on the job.
