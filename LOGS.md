@@ -95,3 +95,7 @@ which... doesn't really matter actually, as I'll have to create a different sect
 
 I think I'd better get the pop up page thing out of the way first, as it may require me to install some kind of dependecy that I could use later to do what I want to do now.
 =====>>>> try to identify all things I want done, and if there are correlations/dependencies/libraries and all that could be used for each => regroup actions/software
+
+--- installed Material UI dependency, but didn't implement it yet
+--- problem with displaying imgs
+got acquainted with github issue and project settings, finally took the time to do it

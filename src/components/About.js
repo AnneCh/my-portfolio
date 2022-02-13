@@ -33,8 +33,8 @@ export default function About() {
                 <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
                     <img
                         className="object-cover object-center rounded"
-                        alt="cyclop"
-                        src="src/components/cyclop.svg"
+                        alt="tea"
+                        src="./imgs/tea.svg"
                     />
                 </div>
             </div>
