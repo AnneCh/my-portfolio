@@ -99,3 +99,5 @@ I think I'd better get the pop up page thing out of the way first, as it may req
 --- installed Material UI dependency, but didn't implement it yet
 --- problem with displaying imgs
 got acquainted with github issue and project settings, finally took the time to do it
+
+14.02.22

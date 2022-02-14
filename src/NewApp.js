@@ -11,9 +11,12 @@ import Multimedia from "./Multimedia";
 import Contact from "./components/Contact";
 
 
+
 export default function App() {
   return (
+    
     <main className="text-gray-400 bg-gray-900 body-font">
+      <Button variant="contained">Hello World</Button>
       <About />
       <Developper />
       <Multimedia />
@@ -21,3 +24,5 @@ export default function App() {
     </main>
   );
 }
+ReactDOM.render(<App />, document.querySelector('#app'));
+
