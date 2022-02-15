@@ -1,4 +1,8 @@
 import React from "react";
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
+import CardMedia from '@mui/material/CardMedia';
+import { Button, CardActionArea, CardActions } from '@mui/material';
 
 export default function About() {
     return (
@@ -30,13 +34,14 @@ export default function About() {
                         </a>
                     </div>
                 </div>
-                <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-                    <img
-                        className="object-cover object-center rounded"
-                        alt="tea"
-                        src="./imgs/tea.svg"
+                <Card sx={{ maxWidth: 345 }}>
+                    <CardMedia
+                    component="img"
+                    height="140"
+                    image="./tea.png"
+                    alt="tea_anyone"
                     />
-                </div>
+                </Card>
             </div>
         </section>
     )
