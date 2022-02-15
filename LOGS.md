@@ -101,3 +101,11 @@ I think I'd better get the pop up page thing out of the way first, as it may req
 got acquainted with github issue and project settings, finally took the time to do it
 
 14.02.22
+Worked on trying to fix the image not displaying
+--- Finally I started using the projects/issue tools of github to work on this specific issue of not
+being able to visualize the images that I try to import.
+Concomitantly, I installed Material UI, tried to import it in the .js documents that my src folders
+comprises. I haven't focused enough on understanding how Materail UI really works, I also think I need
+to get more familiar, watch tutos on react and learn more javascript in order to fully grasp what benefits and drawbacks working with MUI would bring me.
+
+--- Also worked a bit more on the reflexive part, where I try to make the reader understand how I think, rather than bombarding them with projects links.
