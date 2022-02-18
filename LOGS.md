@@ -115,3 +115,12 @@ I really want to try to fix this image not showing, today.
 I'm trying Paper and Container from material UI, figuring out which works best to 
 contain an image and if my image is finally going to display. 
 but now I can't seem to make npm start work in a way that displays my page
+
+18.02.22
+Finally opened the preview on the browser, somehow it does not open the window automatically
+I had to write the address down by myself
+
+the picture still isnt showing though
+
+I'll spend this session learning more about react, seeing about tutorials
+
