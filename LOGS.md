@@ -109,3 +109,9 @@ comprises. I haven't focused enough on understanding how Materail UI really work
 to get more familiar, watch tutos on react and learn more javascript in order to fully grasp what benefits and drawbacks working with MUI would bring me.
 
 --- Also worked a bit more on the reflexive part, where I try to make the reader understand how I think, rather than bombarding them with projects links.
+
+17.02.22
+I really want to try to fix this image not showing, today.
+I'm trying Paper and Container from material UI, figuring out which works best to 
+contain an image and if my image is finally going to display. 
+but now I can't seem to make npm start work in a way that displays my page
