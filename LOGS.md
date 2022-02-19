@@ -124,3 +124,18 @@ the picture still isnt showing though
 
 I'll spend this session learning more about react, seeing about tutorials
 
+
+19.02.22
+The best and most recent tutorial there seem to be is
+https://www.youtube.com/watch?v=bMknfKXIFA8
+I'm going to watch it for the next 20mn and move on to finding about the picture not showing, or how to use material ui to integrate pictures and which kinds of parameters I can add to the pictures' container -- see about the use of scrimba and how to make the best out of it 
+https://scrimba.com/learn/learnreact
+
+==> recommended to be familiar with ES6's syntax
+After watching the first 20mn of the tutorial, I feel I could be startin it, it seems to be practical and easy to follow
+
+https://react-portfolio-sigma.vercel.app/about
+This one has very interesting visuals and features that I wouldn't mind borrowing (music, animation, social stuff bar)
+https://youtu.be/jcohAIaSy2M
+
+===== Goal is to get used to react through my project, I'll see how I can integrate tutorials into my project. I'll probably need to start it again from scratch 
