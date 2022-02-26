@@ -1,3 +1,5 @@
+### This code is the first version of my portfolio, which I chose to leave aside by starting anew at some point; still I keep the original one, as a reminder.
+
 ## PORTFOLIO CREATION
 
 # _What I want is_
